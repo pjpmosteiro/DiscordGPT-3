@@ -19,4 +19,3 @@ volumes:
 
 networks:
   gpt3:
-    name: "gpt3-proxy"
